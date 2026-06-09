@@ -26,7 +26,8 @@
 
 ### 📊 Superstore Business Intelligence & Customer Analytics
 - Hotel Booking Analysis
-- Superstore analysis
+- Superstore Analysis
+- Retail Customer Insights Analysis
 
 ## Connect With Me
 📧 Email: farhananasrin509@gmail.com
