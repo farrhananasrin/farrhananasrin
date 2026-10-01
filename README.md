@@ -17,6 +17,7 @@
 - Data Cleaning
 - Data Visualization
 - Business Intelligence
+- Sql
 - Machine Learning
 
 ## Certifications
