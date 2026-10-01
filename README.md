@@ -7,7 +7,7 @@
 - 🎓 BA English Graduate
 - 💼 Data Analyst
 - 📈 Interested in Data Analytics, Business Intelligence, and Data Visualization
-- 🌱 Currently improving my skills in Python, SQL, Tableau, and Power BI
+- 🌱 Currently improving my skills in Python, SQL, Tableau, Power BI, Excel, and Machine Learning
 
 ## Technical Skills
 - Python
@@ -17,6 +17,7 @@
 - Data Cleaning
 - Data Visualization
 - Business Intelligence
+- Machine Learning
 
 ## Certifications
 - Google-Foundations: Data, Data, Everywhere
@@ -32,5 +33,5 @@
 ## Connect With Me
 📧 Email: farhananasrin509@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/farhana-nasrin-87949338b
+💼 LinkedIn: www.linkedin.com/in/farrhananasrin
 <!--
